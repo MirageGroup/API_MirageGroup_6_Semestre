@@ -4,8 +4,12 @@
 # 📝Descrição do projeto
 Este projeto tem como objetivo desenvolver um sistema para avaliação de respostas geradas por Modelos de Linguagem de Grande Escala (LLMs). A aplicação permitirá o envio de prompts para dois modelos simultaneamente, apresentará as respostas recebidas e possibilitará que os usuários avaliem e comparem essas respostas, fornecendo feedback humano. 
 
+# 📖Padrão de commits
+Nesse projeto estamos seguindo o seguinte padrão de commits: <br>
+https://github.com/iuricode/padroes-de-commits
+
 # 🎥Demonstração da aplicação
-[Demonstração da aplicação](http://youtube.com/)
+[Demonstração da aplicação](https://www.youtube.com/watch?v=-tjv1K_geW0)
 
 # 📋Backlog do produto
 
