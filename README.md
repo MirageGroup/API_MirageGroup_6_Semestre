@@ -51,8 +51,8 @@ https://github.com/iuricode/padroes-de-commits
 Cada entrega foi realizada a partir da criação de uma **tag**. Observe a relação a seguir:
 | Sprint| Tag | Lançamento | Status | 
 |:-----:|:-------------:|:----------:|:---------:|
-| 01 | [sprint-01](sprints/sprint-01/README.md) | 28/02/2025 | Entregue | 
-| 02 | [sprint-02](sprints/sprint-02/README.md) | 27/04/2025 | Entregue | 
+| 01 | [sprint-01](sprints/sprint-01.md) | 28/02/2025 | Entregue | 
+| 02 | [sprint-02](sprints/sprint-02.md) | 27/04/2025 | Entregue | 
 | 03 | [sprint-03]() | 25/05/2025 | Em Desenvolvimento | 
 
 
