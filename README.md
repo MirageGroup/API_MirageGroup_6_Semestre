@@ -24,6 +24,8 @@ https://github.com/iuricode/padroes-de-commits
 
 # ✅Definition of Ready (DoR)
 
+<a href="./doc/DoD.md">DoD DOM Rock</a>
+
 1. A história do usuário está claramente descrita e compreendida pela equipe.
 
 2. Todos os critérios de aceitação estão definidos.
@@ -43,6 +45,20 @@ https://github.com/iuricode/padroes-de-commits
 2. Todos os critérios de aceitação foram atendidos e validados.
 
 3. A documentação foi atualizada para refletir as mudanças.
+
+# 📆Entregas de Sprints
+
+Cada entrega foi realizada a partir da criação de uma **tag**. Observe a relação a seguir:
+| Sprint| Tag | Lançamento | Status | 
+|:-----:|:-------------:|:----------:|:---------:|
+| 01 | [sprint-01](sprints/sprint-01/README.md) | 28/02/2025 | Entregue | 
+| 02 | [sprint-02](sprints/sprint-02/README.md) | 27/04/2025 | Entregue | 
+| 03 | [sprint-03]() | 25/05/2025 | Em Desenvolvimento | 
+
+
+<div align="center" dir="auto">
+
+</div>
 
 # 🛠️Tecnologias utilizadas
 
