@@ -24,7 +24,7 @@ https://github.com/iuricode/padroes-de-commits
 
 # ✅Definition of Ready (DoR)
 
-<a href="./doc/DoD.md">DoD DOM Rock</a>
+<a href="./doc/DoR.md">DoR DOM Rock</a>
 
 1. A história do usuário está claramente descrita e compreendida pela equipe.
 
@@ -53,7 +53,7 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 |:-----:|:-------------:|:----------:|:---------:|
 | 01 | [sprint-01](sprints/sprint-01.md) | 28/02/2025 | Entregue | 
 | 02 | [sprint-02](sprints/sprint-02.md) | 27/04/2025 | Entregue | 
-| 03 | [sprint-03]() | 25/05/2025 | Em Desenvolvimento | 
+| 03 | [sprint-03](sprints/sprint-03.md) | 25/05/2025 | Entregue | 
 
 
 <div align="center" dir="auto">
