@@ -9,7 +9,7 @@ Nesse projeto estamos seguindo o seguinte padrão de commits: <br>
 https://github.com/iuricode/padroes-de-commits
 
 # 🎥Demonstração da aplicação
-[Demonstração da aplicação](https://www.youtube.com/watch?v=-tjv1K_geW0)
+[Demonstração da aplicação](https://youtu.be/MBM-Ca50jYs)
 
 # 📋Backlog do produto
 
